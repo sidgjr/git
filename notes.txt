@@ -1,0 +1,30 @@
+↪ 
+
+↪ Add
+
+    ↪ Master Git and GitHub in 5 Days: Go from Zero to Hero
+    https://www.udemy.com/course/master-git-and-github-in-5-days-go-from-zero-to-hero
+
+    ↪ Learn Git by Doing: A step-by-step guide to version control
+    https://www.udemy.com/course/learn-git-by-doing-a-step-by-step-guide-to-version-control
+
+    ↪ Git Complete: The definitive, step-by-step guide to Git
+    https://www.udemy.com/course/git-complete
+
+    ↪ Git Going Fast: One Hour Git Crash Course
+    https://www.udemy.com/course/git-going-fast
+
+    ↪ Basic Git and Github - essentials
+    https://www.udemy.com/course/basic-git-and-github
+
+    ↪ GitHub Ultimate: Master Git and GitHub - Beginner to Expert
+    https://www.udemy.com/course/github-ultimate
+
+    ↪ Learn Git by Doing: A step-by-step guide to version control
+    https://www.udemy.com/course/learn-git-by-doing-a-step-by-step-guide-to-version-control
+
+    ↪ Git Essentials: Learn Git with Bitbucket and Sourcetree
+    https://www.udemy.com/course/git-with-bitbucket-and-sourcetree
+
+    ↪ Introduction to Git for GitLab projects
+    https://www.udemy.com/course/introduction-to-git-for-gitlab-projects
